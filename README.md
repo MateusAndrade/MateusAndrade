@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://i.kym-cdn.com/photos/images/newsfeed/000/601/591/9c3.gif">
+  <!-- source: https://giphy.com/gifs/meme-know-doge-5JEWBLv0mZDYA/embed -->
+</p>
 
 <!--
 **MateusAndrade/MateusAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
