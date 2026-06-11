@@ -8,7 +8,7 @@
 
 Passionate about technology, bouldering 🧗🏻‍♂️, coffee(of course), I thrive on the complex challenges of building scalable and elegant software. My mission on planet Earth? Bridge the gap between robust architecture and nice user experiences, crafting performant web and mobile applications that just fell "right"(and having some coffee and some beer in between). ☕️
 
-With **10+** years of experience as a **Software Engineer**(I started back in the days when `var` was still a thing 👴🏻), I’ve navigated from high-stakes **fintech** and **banking** platforms to large-scale **research** networks and** e-commerce **innovations. I specialize in turning complex requirements into modular, high-performance systems, always keeping a sharp focus on developer experience (DX), **system reliability**, **user experience**, and most importantly...having **fun**.
+With **10+** years of experience as a **Software Engineer**(I started back in the days when `var` was still a thing 👴🏻), I’ve navigated from high-stakes **fintech** and **banking** platforms to large-scale **research** networks, and **e-commerce** platformsorms. I specialize in turning complex requirements into modular, high-performance systems, always keeping a sharp focus on developer experience (DX), **system reliability**, **user experience**, and most importantly...having **fun**.
 
 ### Bio
 
